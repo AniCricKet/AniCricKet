@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Stats](https://github-readme-stats.vercel.app/api?username=AniCricKet&theme=prussian)
+![Stats](https://github-readme-stats.vercel.app/api?username=AniCricKet&theme=codeSTACKr)
 
 <!--
 
